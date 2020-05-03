@@ -1,0 +1,50 @@
+HTTrack3.48-22+htsswf+htsjava launched on Sat, 05 Aug 2017 09:35:34 at http://tamzidhossain.info/html/lamisa-online/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://tamzidhossain.info/html/lamisa-online/ -O1 "C:\My Web Sites\Meet1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:38:44	Warning: 	Retry after error -4 (Connect Error) at link tamzidhossain.info/html/lamisa-online/css/site.css (from tamzidhossain.info/html/lamisa-online/)
+09:39:38	Warning: 	Retry after error -4 (Connect Error) at link tamzidhossain.info/html/lamisa-online/css/font-awesome.min.css (from tamzidhossain.info/html/lamisa-online/)
+09:44:02	Warning: 	Retry after error -4 (Connect Error) at link tamzidhossain.info/html/lamisa-online/js/ajax-jquery.min.js (from tamzidhossain.info/html/lamisa-online/)
+09:45:15	Warning: 	file not stored in cache due to bogus state (broken size, expected 3880438 got 1523521): tamzidhossain.info/html/lamisa-online/img/process4.jpg
+09:46:53	Warning: 	Retry after error -4 (Connect Error) at link tamzidhossain.info/html/lamisa-online/js/jquery.fancybox.pack.js?v=2.1.5 (from tamzidhossain.info/html/lamisa-online/)
+09:46:53	Error: 	"Not Found" (404) at link tamzidhossain.info/html/lamisa-online/fonts/glyphicons-halflings-regular.eot (from tamzidhossain.info/html/lamisa-online/css/bootstrap.min.css)
+09:46:53	Error: 	"Not Found" (404) at link tamzidhossain.info/html/lamisa-online/fonts/glyphicons-halflings-regular.eot? (from tamzidhossain.info/html/lamisa-online/css/bootstrap.min.css)
+09:46:53	Error: 	"Not Found" (404) at link tamzidhossain.info/html/lamisa-online/fonts/glyphicons-halflings-regular.woff2 (from tamzidhossain.info/html/lamisa-online/css/bootstrap.min.css)
+09:46:53	Error: 	"Not Found" (404) at link tamzidhossain.info/html/lamisa-online/fonts/glyphicons-halflings-regular.woff (from tamzidhossain.info/html/lamisa-online/css/bootstrap.min.css)
+09:46:53	Error: 	"Not Found" (404) at link tamzidhossain.info/html/lamisa-online/fonts/glyphicons-halflings-regular.ttf (from tamzidhossain.info/html/lamisa-online/css/bootstrap.min.css)
+09:46:53	Error: 	"Not Found" (404) at link tamzidhossain.info/html/lamisa-online/fonts/glyphicons-halflings-regular.svg (from tamzidhossain.info/html/lamisa-online/css/bootstrap.min.css)
+09:47:21	Error: 	"Not Found" (404) at link tamzidhossain.info/html/lamisa-online/assets/fonts/glyphicons-halflings-regular.eot (from tamzidhossain.info/html/lamisa-online/assets/css/bootstrap.min.css)
+09:47:21	Error: 	"Not Found" (404) at link tamzidhossain.info/html/lamisa-online/assets/fonts/glyphicons-halflings-regular.eot? (from tamzidhossain.info/html/lamisa-online/assets/css/bootstrap.min.css)
+09:47:21	Error: 	"Not Found" (404) at link tamzidhossain.info/html/lamisa-online/assets/fonts/glyphicons-halflings-regular.woff2 (from tamzidhossain.info/html/lamisa-online/assets/css/bootstrap.min.css)
+09:47:21	Error: 	"Not Found" (404) at link tamzidhossain.info/html/lamisa-online/assets/fonts/glyphicons-halflings-regular.woff (from tamzidhossain.info/html/lamisa-online/assets/css/bootstrap.min.css)
+09:47:21	Error: 	"Not Found" (404) at link tamzidhossain.info/html/lamisa-online/assets/fonts/glyphicons-halflings-regular.ttf (from tamzidhossain.info/html/lamisa-online/assets/css/bootstrap.min.css)
+09:47:21	Error: 	"Not Found" (404) at link tamzidhossain.info/html/lamisa-online/assets/fonts/glyphicons-halflings-regular.svg (from tamzidhossain.info/html/lamisa-online/assets/css/bootstrap.min.css)
+09:47:21	Error: 	"Not Found" (404) at link tamzidhossain.info/html/lamisa-online/font/flaticon.eot (from tamzidhossain.info/html/lamisa-online/css/style.css)
+09:47:21	Error: 	"Not Found" (404) at link tamzidhossain.info/html/lamisa-online/font/flaticon.woff (from tamzidhossain.info/html/lamisa-online/css/style.css)
+09:47:21	Error: 	"Not Found" (404) at link tamzidhossain.info/html/lamisa-online/font/flaticon.ttf (from tamzidhossain.info/html/lamisa-online/css/style.css)
+09:47:21	Error: 	"Not Found" (404) at link tamzidhossain.info/html/lamisa-online/font/flaticon.svg (from tamzidhossain.info/html/lamisa-online/css/style.css)
+09:47:21	Error: 	"Not Found" (404) at link tamzidhossain.info/html/lamisa-online/img/index.png (from tamzidhossain.info/html/lamisa-online/css/style.css)
+09:47:21	Warning: 	Retry after error -4 (Incorrect length (1523521 Bytes, 3880438 expected)) at link tamzidhossain.info/html/lamisa-online/img/process4.jpg (from tamzidhossain.info/html/lamisa-online/css/style.css)
+09:47:30	Error: 	"Not Found" (404) at link tamzidhossain.info/html/lamisa-online/img/blank.gif (from tamzidhossain.info/html/lamisa-online/css/style.css)
+09:47:30	Error: 	"Not Found" (404) at link tamzidhossain.info/html/lamisa-online/fancybox_overlay.png (from tamzidhossain.info/html/lamisa-online/css/style.css)
+09:47:30	Error: 	"Not Found" (404) at link tamzidhossain.info/html/lamisa-online/fancybox_sprite@2x.png (from tamzidhossain.info/html/lamisa-online/css/style.css)
+09:47:30	Error: 	"Not Found" (404) at link tamzidhossain.info/html/lamisa-online/fancybox_loading@2x.gif (from tamzidhossain.info/html/lamisa-online/css/style.css)
+09:47:30	Error: 	"Not Found" (404) at link tamzidhossain.info/html/lamisa-online/css/fancybox_buttons.png (from tamzidhossain.info/html/lamisa-online/css/style.css)
+09:47:30	Error: 	"Not Found" (404) at link tamzidhossain.info/html/lamisa-online/.process1 (from tamzidhossain.info/html/lamisa-online/about.html)
+09:47:30	Error: 	"Not Found" (404) at link tamzidhossain.info/html/lamisa-online/.process2 (from tamzidhossain.info/html/lamisa-online/about.html)
+09:47:30	Error: 	"Not Found" (404) at link tamzidhossain.info/html/lamisa-online/.process3 (from tamzidhossain.info/html/lamisa-online/about.html)
+09:47:30	Error: 	"Not Found" (404) at link tamzidhossain.info/html/lamisa-online/.process4 (from tamzidhossain.info/html/lamisa-online/about.html)
+09:47:30	Error: 	"Forbidden" (403) at link tamzidhossain.info/html/lamisa-online/www.facebook.com (from tamzidhossain.info/html/lamisa-online/about.html)
+09:47:30	Error: 	"Forbidden" (403) at link tamzidhossain.info/html/lamisa-online/www.twitter.com (from tamzidhossain.info/html/lamisa-online/about.html)
+09:47:30	Error: 	"Forbidden" (403) at link tamzidhossain.info/html/lamisa-online/www.pinterest.com (from tamzidhossain.info/html/lamisa-online/about.html)
+09:47:30	Error: 	"Forbidden" (403) at link tamzidhossain.info/html/lamisa-online/www.linkedin.com (from tamzidhossain.info/html/lamisa-online/about.html)
+09:47:30	Error: 	"Forbidden" (403) at link tamzidhossain.info/html/lamisa-online/www.behance.com (from tamzidhossain.info/html/lamisa-online/about.html)
+09:47:30	Error: 	"Forbidden" (403) at link tamzidhossain.info/html/lamisa-online/www.instagram.com (from tamzidhossain.info/html/lamisa-online/about.html)
+09:50:28	Warning: 	Retry after error -2 (Receive Time Out) at link tamzidhossain.info/html/lamisa-online/font/fontawesome-webfont.woff?v=4.6.3 (from tamzidhossain.info/html/lamisa-online/css/font-awesome.min.css)
+
+HTTrack Website Copier/3.48-22 mirror complete in 14 minutes 58 seconds : 124 links scanned, 85 files written (12583688 bytes overall) [12515957 bytes received at 13937 bytes/sec], 130895 bytes transferred using HTTP compression in 40 files, ratio 21%
+(32 errors, 7 warnings, 0 messages)
